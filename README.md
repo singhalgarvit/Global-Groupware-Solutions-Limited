@@ -8,5 +8,5 @@ Follow these steps to get the project running locally:
     npm install
     npm run dev
 
-   ``
+
    Open http://localhost:5173 to view it in your browser.
