@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import Input from "../components/input";
+import Input from "../components/Input";
 import SubmitButton from "../components/SubmitButton";
 import login from "../api/login.api";
 import { AuthContext } from "../context/authContext";
