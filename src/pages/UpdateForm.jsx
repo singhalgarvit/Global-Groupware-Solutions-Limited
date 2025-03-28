@@ -1,5 +1,5 @@
 import React, {use, useContext, useState} from "react";
-import Input from "../components/input";
+import Input from "../components/Input";
 import SubmitButton from "../components/SubmitButton";
 import {Modal} from "react-responsive-modal";
 import {editUser} from "../api/users.api";
