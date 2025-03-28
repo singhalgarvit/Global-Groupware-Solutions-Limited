@@ -10,3 +10,5 @@ Follow these steps to get the project running locally:
 
 
    Open http://localhost:5173 to view it in your browser.
+
+   Once you login and want to logout, clear your local storage to again go to login page.
